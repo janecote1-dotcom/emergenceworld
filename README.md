@@ -22,12 +22,12 @@
 
 > ## 🔬 Research-Only License
 >
-> This repository — including all documentation, agent profiles, landmarks, tool catalogs, governance documents, and datasets — is released **for non-commercial research and educational use only** under [**CC BY-NC-ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+> This repository — including all documentation, agent profiles, landmarks, tool catalogs, governance documents, and datasets — is released **for non-commercial research and educational use only** under [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/).
 >
-> **You may:** read, cite, and share the material with attribution to Emergence AI.
-> **You may not:** use it commercially, redistribute modified versions, or use any content or dataset to train, fine-tune, evaluate, or benchmark AI/ML models for commercial purposes.
+> **You may:** read, cite, share, and adapt the material for non-commercial research, **provided you give clear attribution** to Emergence AI (link this repository and indicate any changes).
+> **You may not:** use the material for any commercial purpose, or use any content or dataset to train, fine-tune, evaluate, or benchmark AI/ML models for commercial purposes.
 >
-> All content is proprietary to Emergence AI. For commercial licensing, derivative works, or model-training inquiries, contact [world@emergence.ai](mailto:world@emergence.ai). See [LICENSE](LICENSE) for full terms.
+> All content is proprietary to Emergence AI. For commercial licensing or model-training inquiries, contact [world@emergence.ai](mailto:world@emergence.ai). See [LICENSE](LICENSE) for the full terms and the required attribution format.
 
 ---
 
